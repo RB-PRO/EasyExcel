@@ -12,4 +12,4 @@ h1 Single!
 ![Single works](https://imgur.com/a/IaStKF6)
 
 h1 Arrays!
-![Array works](https://imgur.com/a/Y8GU1ST)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Y8GU1ST" data-context="false" ><a href="//imgur.com/a/Y8GU1ST"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
