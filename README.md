@@ -5,10 +5,11 @@ You can easily open and read data from Excel into variables or arrays.
 EE make doing integer, double, string
 
 ### h2 Make 2 files in project and include this.
-![Include](https://imgur.com/a/uqmFcg7)
-![Your project](https://imgur.com/a/7R2ll0d)
+![i1](https://user-images.githubusercontent.com/33092641/85278946-57d2a600-b48e-11ea-8620-a4d8d1d46834.png)
+![i2](https://user-images.githubusercontent.com/33092641/85278992-66b95880-b48e-11ea-941a-665dc7f0f62e.png)
 
 ### h1 Single!
-![Single works](https://imgur.com/a/IaStKF6)
-❮img src="images/you-picture.png" ❯
+![i3](https://user-images.githubusercontent.com/33092641/85279007-6e78fd00-b48e-11ea-9657-5c09cc1456eb.png)
+
 ### h1 Arrays!
+![i4](https://user-images.githubusercontent.com/33092641/85279022-75a00b00-b48e-11ea-9ad4-a1564d9b2778.png)
